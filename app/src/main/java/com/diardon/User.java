@@ -1,4 +1,4 @@
-package com.dairdon;
+package com.diardon;
 
 public class User
 {

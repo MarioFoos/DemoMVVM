@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.dairdon"
+    namespace = "com.diardon"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.dairdon"
+        applicationId = "com.diardon"
         minSdk = 24
         targetSdk = 33
         versionCode = 1
